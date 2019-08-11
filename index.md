@@ -15,7 +15,7 @@ Sie sind unbeteiligt? Dann machen sie sich unsichtbar, lösen Sie sich in Luft a
 Wenn Sie es geschafft haben, ruhig zu bleiben, dann zeigen Sie Anerkennung für die geleistete Hilfe. Sprechen sie positiv über den Einsatz, bedanken sie sich bei den Helfern.
 
 ## 4. Spenden leisten
-Sie möchten mehr als nur gut reden? Dann Spenden sie. Alle [Hilfsorganisationen](http://www.hilfsorganisationen.de/) bieten Spendenkonten an, auf denen sich beliebige hohe Spendenbeträge überweisen lassen. Das gespendete Geld könnte vielleicht einmal Ihr Leben retten.
+Sie möchten mehr als nur gut reden? Dann spenden sie. Alle [Hilfsorganisationen](http://www.hilfsorganisationen.de/) bieten Spendenkonten an, auf die sich fast beliebig hohe Spendenbeträge überweisen lassen. Das gespendete Geld könnte vielleicht einmal Ihr Leben retten.
 
 ## 5. Mitgliedschaft beantragen
 Eine einmalige Spende ist Ihnen zu wenig? Beantragen Sie eine Mitgliedschaft. So können Sie jährlich oder monatlich Rettungsdienste, Freiwillige Feuerwehren, Naturschutzorganisationen oder Hochseerettungsdiensten zuverlässig Unterstützung leisten.
