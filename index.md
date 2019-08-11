@@ -1,4 +1,8 @@
-Ob Carola Rackete im Mittelmeer oder Carina Paulus und Stefanie Weiller  in München: Menschen, die Menschen in Not helfen, sind überlebenswichtiger Bestandteil einer zivilisierten Gesellschaft. Die allermeisten von ihnen leisten ihren Dienst an Menschen, Gesellschaft und Moral nicht nur unentgeltlich, sondern mitunter auf eigene Kosten. Dennoch erleiden sie viel zu oft verbale Anfeindungen, demoralisierende Verleumdungen und körperliche Übergriffe.
+---
+title: This is my title
+---
+
+Ob [Carola Rackete](https://de.wikipedia.org/wiki/Carola_Rackete) im Mittelmeer oder [Carina Paulus und Stefanie Weiller in München](https://www.sueddeutsche.de/muenchen/muenchen-unterhaching-rettungssanitaeter-beleidigt-behindert-1.4558843): Menschen, die Menschen in Not helfen, sind überlebenswichtiger Bestandteil einer zivilisierten Gesellschaft. Die allermeisten von ihnen leisten ihren Dienst an Menschen, Gesellschaft und Moral nicht nur unentgeltlich, sondern mitunter auf eigene Kosten. Dennoch erleiden sie viel zu oft verbale Anfeindungen, demoralisierende Verleumdungen und körperliche Übergriffe.
 Dabei brauchen auch Helfer Hilfe. Die Hilfe der Unbeteiligten, der Gesellschaft, der Politik. Anstatt sich Helfern entgegen zu stellen, hat die Gesellschaft die Pflicht, Helfern zu helfen.
 
 ## 1. Ruhig bleiben
