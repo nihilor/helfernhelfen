@@ -9,7 +9,7 @@ Dabei brauchen auch Helfer Hilfe. Die Hilfe der Unbeteiligten, der Gesellschaft,
 Es findet ein Hilfeeinsatz statt? Dann bleiben sie ruhig. Egal wie wichtig Ihr Termin auch sein sollte, die Gesundheit und das Überleben anderer Menschen ist wichtiger. Stellen sie sich vor, sie wären die zu rettende Person.
 
 ## 2. Unsichtbar machen
-Sie sind unbeteiligt? Dann machen sie sich unsichtbar, lösen Sie sich in Luft aus. Lassen Sie die Helfer ihre Arbeit machen und stören Sie den Einsatz nicht. Vor allem unterlassen Sie es, Fotos und Videos aufzunehmen.
+Sie sind unbeteiligt? Dann machen sie sich unsichtbar, lösen Sie sich in Luft auf. Lassen Sie die Helfer ihre Arbeit machen und stören Sie den Einsatz nicht. Vor allem unterlassen Sie es, Fotos und Videos aufzunehmen.
 
 ## 3. Anerkennung zeigen
 Wenn Sie es geschafft haben, ruhig zu bleiben, dann zeigen Sie Anerkennung für die geleistete Hilfe. Sprechen sie positiv über den Einsatz, bedanken sie sich bei den Helfern.
