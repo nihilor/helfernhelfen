@@ -1,5 +1,5 @@
 ---
-title: This is my title
+title: #helfernhelfen
 ---
 
 Ob [Carola Rackete](https://de.wikipedia.org/wiki/Carola_Rackete) im Mittelmeer oder [Carina Paulus und Stefanie Weiller in München](https://www.sueddeutsche.de/muenchen/muenchen-unterhaching-rettungssanitaeter-beleidigt-behindert-1.4558843): Menschen, die Menschen in Not helfen, sind überlebenswichtiger Bestandteil einer zivilisierten Gesellschaft. Die allermeisten von ihnen leisten ihren Dienst an Menschen, Gesellschaft und Moral nicht nur unentgeltlich, sondern mitunter auf eigene Kosten. Dennoch erleiden sie viel zu oft verbale Anfeindungen, demoralisierende Verleumdungen und körperliche Übergriffe.
