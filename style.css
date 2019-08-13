@@ -1,0 +1,177 @@
+@font-face {
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/bree-serif-v9-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Bree Serif Regular'), local('BreeSerif-Regular'),
+         url('fonts/bree-serif-v9-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/bree-serif-v9-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/bree-serif-v9-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/bree-serif-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/bree-serif-v9-latin-regular.svg#BreeSerif') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/open-sans-v17-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Open Sans Regular'), local('OpenSans-Regular'),
+         url('fonts/open-sans-v17-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/open-sans-v17-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/open-sans-v17-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/open-sans-v17-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/open-sans-v17-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bree Serif', serif;
+}
+
+h2 {
+    margin-bottom: 2rem;
+}
+
+body {
+    font-size: 100%;
+    line-height: 1.5rem;
+}
+
+a {
+    box-shadow: inset 0 -0.3rem 0 #68E1FD;
+    color: inherit;
+    text-decoration: none;
+    transition: box-shadow ease-in 0.25s;
+}
+
+h1 a {
+    box-shadow: inherit;
+    color: inherit;
+    font-family: inherit;
+    text-decoration: inherit;
+}
+
+a:hover {
+    box-shadow:  inset 0 -1.5rem 0 #68E1FD40;
+}
+
+#header {
+    text-align: center;
+}
+
+#header h1 {
+    font-size: 2rem;
+    margin: 4rem 0;
+}
+
+@media screen and (min-width: 768px) {
+    #header h1 {
+        font-size: 4rem;
+        margin: 8rem 0;
+    }
+}
+
+#header h1 span {
+    color: #68E1FD;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+#main {
+    margin: auto;
+    max-width: 68em;
+    padding: 1rem;
+}
+
+.step {
+    padding: 3rem 0;
+
+}
+
+.step img {
+    display: block;
+    max-width: 100%;
+    padding: 2rem;
+    width: 26rem;
+}
+
+@media screen and (min-width: 768px) {
+    .step {
+        display: flex;
+        padding: 6rem 0;
+    }
+    
+    .step .left,
+    .step .right {
+        flex: 1 0 50%;
+    }
+    
+    .step .left {
+        align-items: flex-end;
+        display: flex;
+        flex-direction: column;
+        text-align: right;
+    }
+    
+    .step .right {
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-start;
+    }
+}
+
+.step .number {
+    background-color: #68E1FD;
+    border: 0.5rem solid #68E1FD;
+    border-radius: 50%;
+    bottom: 8rem;
+    display: block;
+    font-family: 'Bree Serif', serif;
+    font-size: 8rem;
+    line-height: 125%;
+    height: 12rem;
+    margin: 2rem auto 2rem auto;
+    text-align: center;
+    transform: rotate(-10deg);
+    width: 12rem;
+}
+
+@media screen and (min-width: 768px) {
+    .step .number {
+        margin: 2rem 0;
+    }
+}
+
+
+#footer {
+    margin-top: 4rem;
+    text-align: center;
+}
+
+#footer div {
+    margin-bottom: 4rem;
+}
+
+.atty::after {
+    content: "@";
+    display: inline-block;
+}
+.dotty::after {
+    content: ".";
+    display: inline-block;
+}
+.t::after {
+    content: "Johann-Theodor-Str. 1";
+    display: inline-block;
+}
+
+#imprint h2,
+#imprint h3 {
+    margin: 4rem 0 2rem 0;
+}
